@@ -17,8 +17,8 @@
         </div>
         <!-- logo image -->
         <div class="site-logo">
-            <a href="index-2-dark.html">
-                <img src="images/logo.svg" alt="Bolby" />
+            <a href="{{URL::to('/')}}">
+                <img src="https://i.imgur.com/lUJT5hk.png" alt="Image" />
             </a>
         </div>
     </div>
@@ -29,8 +29,8 @@
 
     <!-- logo image -->
     <div class="site-logo">
-        <a href="index-2-dark.html">
-            <img src="images/logo-b-light.svg" alt="Bolby" />
+        <a href="{{URL::to('/')}}">
+            <img src="https://i.imgur.com/lUJT5hk.png" alt="Image" />
         </a>
     </div>
 
@@ -560,12 +560,11 @@
 
     </section>
 
-    <!-- section prices -->
+    <!-- section prices
     <section id="prices">
 
         <div class="container">
 
-            <!-- section title -->
             <h2 class="section-title wow fadeIn">Pricing Plans</h2>
 
             <div class="spacer" data-height="60"></div>
@@ -573,7 +572,6 @@
             <div class="row">
 
                 <div class="col-md-4 pr-md-0 mt-md-4 mt-0">
-                    <!-- price item -->
                     <div class="price-item bg-dark rounded shadow-light text-center">
                         <img src="https://via.placeholder.com/80x80" alt="Regular" />
                         <h2 class="plan">Basic</h2>
@@ -585,7 +583,6 @@
                 </div>
 
                 <div class="col-md-4 px-md-0 my-4 my-md-0">
-                    <!-- price item recommended-->
                     <div class="price-item bg-dark rounded shadow-light text-center best">
                         <span class="badge">Recommended</span>
                         <img src="https://via.placeholder.com/80x80" alt="Premium" />
@@ -598,7 +595,6 @@
                 </div>
 
                 <div class="col-md-4 pl-md-0 mt-md-4 mt-0">
-                    <!-- price item -->
                     <div class="price-item bg-dark rounded shadow-light text-center">
                         <img src="https://via.placeholder.com/80x80" alt="Ultimate" />
                         <h2 class="plan">Ultimate</h2>
@@ -614,21 +610,18 @@
         </div>
 
     </section>
-
-    <!-- section testimonials -->
+    -->
+    <!-- section testimonials
     <section id="testimonials">
 
         <div class="container">
 
-            <!-- section title -->
             <h2 class="section-title wow fadeInUp">Clients & Reviews</h2>
 
             <div class="spacer" data-height="60"></div>
 
-            <!-- testimonials wrapper -->
             <div class="testimonials-wrapper">
 
-                <!-- testimonial item -->
                 <div class="testimonial-item text-center mx-auto">
                     <div class="thumb mb-3 mx-auto">
                         <img src="https://via.placeholder.com/90x90" alt="customer-name" />
@@ -640,7 +633,6 @@
                     </div>
                 </div>
 
-                <!-- testimonial item -->
                 <div class="testimonial-item text-center mx-auto">
                     <div class="thumb mb-3 mx-auto">
                         <img src="https://via.placeholder.com/90x90" alt="customer-name" />
@@ -656,7 +648,6 @@
 
             <div class="row">
                 <div class="col-md-3 col-6">
-                    <!-- client item -->
                     <div class="client-item">
                         <div class="inner">
                             <img src="https://via.placeholder.com/100x30" alt="client-name" />
@@ -664,7 +655,6 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-6">
-                    <!-- client item -->
                     <div class="client-item">
                         <div class="inner">
                             <img src="https://via.placeholder.com/100x30" alt="client-name" />
@@ -672,7 +662,6 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-6">
-                    <!-- client item -->
                     <div class="client-item">
                         <div class="inner">
                             <img src="https://via.placeholder.com/100x30" alt="client-name" />
@@ -680,7 +669,6 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-6">
-                    <!-- client item -->
                     <div class="client-item">
                         <div class="inner">
                             <img src="https://via.placeholder.com/100x30" alt="client-name" />
@@ -688,7 +676,6 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-6">
-                    <!-- client item -->
                     <div class="client-item">
                         <div class="inner">
                             <img src="https://via.placeholder.com/100x30" alt="client-name" />
@@ -696,7 +683,6 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-6">
-                    <!-- client item -->
                     <div class="client-item">
                         <div class="inner">
                             <img src="https://via.placeholder.com/100x30" alt="client-name" />
@@ -704,7 +690,6 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-6">
-                    <!-- client item -->
                     <div class="client-item">
                         <div class="inner">
                             <img src="https://via.placeholder.com/100x30" alt="client-name" />
@@ -712,7 +697,6 @@
                     </div>
                 </div>
                 <div class="col-md-3 col-6">
-                    <!-- client item -->
                     <div class="client-item">
                         <div class="inner">
                             <img src="https://via.placeholder.com/100x30" alt="client-name" />
@@ -724,6 +708,7 @@
         </div>
 
     </section>
+    -->
 
     <!-- section blog -->
     <section id="blog">
@@ -778,7 +763,7 @@
                     <!-- contact info -->
                     <div class="contact-info">
                         <h3 class="wow fadeInUp">Let's talk about everything!</h3>
-                        <p class="wow fadeInUp">Don't like forms? Send me an <a href="mailto:name@example.com">email</a>. 👋</p>
+                        <p class="wow fadeInUp">Don't like forms? Send me an <a href="mailto:sean@streambit.tv">email</a>. 👋</p>
                     </div>
                 </div>
 
