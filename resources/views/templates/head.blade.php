@@ -6,13 +6,13 @@
     <link rel="shortcut icon" type="image/x-icon" href="https://via.placeholder.com/32x32">
 
     <!-- STYLESHEETS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" media="all">
-    <link rel="stylesheet" href="css/all.min.css" type="text/css" media="all">
-    <link rel="stylesheet" href="css/simple-line-icons.css" type="text/css" media="all">
-    <link rel="stylesheet" href="css/slick.css" type="text/css" media="all">
-    <link rel="stylesheet" href="css/animate.css" type="text/css" media="all">
-    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" media="all">
-    <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/css/bootstrap.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/css/all.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/css/simple-line-icons.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/css/slick.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/css/animate.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/css/magnific-popup.css" type="text/css" media="all">
+    <link rel="stylesheet" href="https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/css/style.css" type="text/css" media="all">
 
     <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
