@@ -50,7 +50,7 @@
     <!-- site footer -->
     <div class="footer">
         <!-- copyright text -->
-        <span class="copyright">© 2020 {{env('THEME_FULL_NAME')}} Template.</span>
+        <span class="copyright">© 2020 {{env('THEME_FULL_NAME')}}</span>
     </div>
 
 </header>
@@ -302,126 +302,7 @@
         </div>
 
     </section>
-
-    <!-- section experience -->
-    <section id="experience">
-
-        <div class="container">
-
-            <!-- section title -->
-            <h2 class="section-title wow fadeInUp">Experience</h2>
-
-            <div class="spacer" data-height="60"></div>
-
-            <div class="row">
-
-                <div class="col-md-6">
-
-                    <!-- timeline wrapper -->
-                    <div class="timeline edu bg-dark rounded shadow-light padding-30 overflow-hidden">
-
-                        <!-- timeline item -->
-                        <div class="timeline-container wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="content">
-                                <span class="time">2017 - 2017</span>
-                                <h3 class="title">World Skills</h3>
-                                <p>Placed 3rd place in my Region or 10th UK wide for the Network System Administrator Heats.</p>
-                            </div>
-                        </div>
-
-                        <!-- timeline item -->
-                        <div class="timeline-container wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="content">
-                                <span class="time">2017 - 2017</span>
-                                <h3 class="title">Cisco</h3>
-                                <p>CCNA Routing and Switching Introduction to Networks</p>
-                            </div>
-                        </div>
-
-                        <!-- timeline item -->
-                        <div class="timeline-container wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="content">
-                                <span class="time">2017 - 2017</span>
-                                <h3 class="title">Microsoft</h3>
-                                <p>Windows Operating System Fundamentals</p>
-                            </div>
-                        </div>
-
-                        <!-- timeline item -->
-                        <div class="timeline-container wow fadeInUp">
-                            <div class="content">
-                                <span class="time">2015 - 2017</span>
-                                <h3 class="title">HND IT Technical Support</h3>
-                                <p>Completed my HND in IT Technical Support after 2 years with an A grade for both years.</p>
-                            </div>
-                        </div>
-
-                        <!-- timeline item -->
-                        <div class="timeline-container wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="content">
-                                <span class="time">2014-2015</span>
-                                <h3 class="title">Level 3 Modern Apprenticeships Business and Information Technology</h3>
-                                <p>Due to finishing my apprenticeship with GRS Global.</p>
-                            </div>
-                        </div>
-
-
-{{--                        <!-- timeline item -->--}}
-{{--                        <div class="timeline-container wow fadeInUp" data-wow-delay="0.4s">--}}
-{{--                            <div class="content">--}}
-{{--                                <span class="time">2013 - 2009</span>--}}
-{{--                                <h3 class="title">Honours Degree</h3>--}}
-{{--                                <p>Lorem ipsum dolor sit amet quo ei simul congue exerci ad nec admodum perfecto.</p>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
-
-                        <!-- main line -->
-                        <span class="line"></span>
-
-                    </div>
-
-                </div>
-
-                <div class="col-md-6">
-
-                    <!-- responsive spacer -->
-                    <div class="spacer d-md-none d-lg-none" data-height="30"></div>
-
-                    <!-- timeline wrapper -->
-                    <div class="timeline exp bg-dark rounded shadow-light padding-30 overflow-hidden">
-
-                        <!-- timeline item -->
-                        <div class="timeline-container wow fadeInUp">
-                            <div class="content">
-                                <span class="time">2017 - Present</span>
-                                <h3 class="title">System Administrator / PHP Developer / Helpdesk Support</h3>
-                                <p>At HubSolv my duties reach far and wide, from ensuring our internal network stays operational to fulfilling the criteria that ISO 27001 sets on our business. I also head up the support team ensuring we're meeting our SLA's for our customers.</p>
-                                <p>On the development front I review merge requests, develop bug / feature requests in PHP for our application</p>
-                            </div>
-                        </div>
-
-                        <!-- timeline item -->
-                        <div class="timeline-container wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="content">
-                                <span class="time">2014 - 2015</span>
-                                <h3 class="title">IT Administrator</h3>
-                                <p>At GRS Global I was the sole IT Administrator that maintained our internal network along with assisting on infrastructure projects such as setting up a store front and maintaining our CRM system.</p>
-                            </div>
-                        </div>
-
-                        <!-- main line -->
-                        <span class="line"></span>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
-
+    
     <!-- section works -->
     <section id="works">
 
