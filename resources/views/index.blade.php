@@ -446,13 +446,13 @@
                                 <span class="more-button"><i class="icon-options"></i></span>
                             </div>
                             <div class="thumb">
-                                <img src="{{URL::to('images/streamupdater.com.png')}}" alt="Portfolio-title" />
+                                <img src="{{URL::to('https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/streamupdater.com.png')}}" alt="Portfolio-title" />
                                 <div class="mask"></div>
                             </div>
                         </div>
                     </a>
                     <div id="su-diag" class="white-popup zoom-anim-dialog mfp-hide">
-                        <img src="{{URL::to('images/streamupdater.com.png')}}" alt="Title" />
+                        <img src="{{URL::to('https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/streamupdater.com.png')}}" alt="Title" />
                         <h2>Stream Updater</h2>
                         <p>StreamUpdater is a platform designed to help streamers manage their twitch.tv streams automatically.</p>
                         <p>StreamUpdater was the first platform to change stream title and games automatically for the streamer to ensure everything is up to date.</p>
@@ -470,13 +470,13 @@
                                 <span class="more-button"><i class="icon-options"></i></span>
                             </div>
                             <div class="thumb">
-                                <img src="{{URL::to('images/streambit.tv.png')}}" alt="Portfolio-title" />
+                                <img src="{{URL::to('https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/streambit.tv.png')}}" alt="Portfolio-title" />
                                 <div class="mask"></div>
                             </div>
                         </div>
                     </a>
                     <div id="sb-diag" class="white-popup zoom-anim-dialog mfp-hide">
-                        <img src="{{URL::to('images/streambit.tv.png')}}" alt="Title" />
+                        <img src="{{URL::to('https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/streambit.tv.png')}}" alt="Title" />
                         <h2>StreamBit</h2>
                         <p>StreamBit is a VOD and Streaming platform designed to compete with some of the biggest sites in the gaming scene</p>
                         <p>This was also one of the first companies I setup to learn more about business and terminology.</p>
@@ -495,13 +495,13 @@
                                 <span class="more-button"><i class="icon-options"></i></span>
                             </div>
                             <div class="thumb">
-                                <img src="{{URL::to('images/unreal.jpg')}}" alt="Portfolio-title" />
+                                <img src="{{URL::to('https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/unreal.jpg')}}" alt="Portfolio-title" />
                                 <div class="mask"></div>
                             </div>
                         </div>
                     </a>
                     <div id="poi-diag" class="white-popup zoom-anim-dialog mfp-hide">
-                        <img src="{{URL::to('images/unreal.jpg')}}" alt="Title" />
+                        <img src="{{URL::to('https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/unreal.jpg')}}" alt="Title" />
                         <h2>Path Of Immortals</h2>
                         <p>Gaming has always been one of my biggest passions, that is why I'm learning how they work.</p>
                         <p>Currently learning on the Unreal Engine</p>
@@ -518,13 +518,13 @@
                                 <span class="more-button"><i class="icon-options"></i></span>
                             </div>
                             <div class="thumb">
-                                <img src="{{URL::to('images/gmod.jpg')}}" alt="Portfolio-title" />
+                                <img src="{{URL::to('https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/gmod.jpg')}}" alt="Portfolio-title" />
                                 <div class="mask"></div>
                             </div>
                         </div>
                     </a>
                     <div id="txp-diag" class="white-popup zoom-anim-dialog mfp-hide">
-                        <img src="{{URL::to('images/gmod.jpg')}}" alt="Title" />
+                        <img src="{{URL::to('https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/gmod.jpg')}}" alt="Title" />
                         <h2>TheXenProject</h2>
                         <p>I've been involved in Game Servers since I was 15, hosting one of the most popular servers for the video game Garry's Mod.</p>
                         <p>TheXenProject was shelved due to focusing on education but still exists as a project to continue my education in game servers and Linux especially</p>
@@ -541,13 +541,13 @@
                                 <span class="more-button"><i class="icon-options"></i></span>
                             </div>
                             <div class="thumb">
-                                <img src="{{URL::to('images/super-mario.jpg')}}" alt="Portfolio-title" />
+                                <img src="{{URL::to('https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/super-mario.jpg')}}" alt="Portfolio-title" />
                                 <div class="mask"></div>
                             </div>
                         </div>
                     </a>
                     <div id="mario-diag" class="white-popup zoom-anim-dialog mfp-hide">
-                        <img src="{{URL::to('images/super-mario.jpg')}}" alt="Title" />
+                        <img src="{{URL::to('https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/super-mario.jpg')}}" alt="Title" />
                         <h2>MarioShare</h2>
                         <p>This was a project for the Super Mario Maker video game that came out for the Nintendo Switch</p>
                         <p>This project gathered over 400 users and 1,000 shares levels being posted on it before being taken down as nintendo had developed their own service thus making my one irrelevant</p>

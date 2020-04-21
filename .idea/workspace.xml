@@ -4,7 +4,6 @@
     <list default="true" id="3b15a96f-d451-4a89-ac42-6476fff45fc4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/templates/head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/templates/head.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,20 +132,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Laravel.seanodonnell">
-    <configuration default="true" type="LaravelStorm_run_conf_serve" factoryName="Laravel">
-      <option name="host" value="localhost" />
-      <option name="port" value="8000" />
-      <option name="route" value="/" />
-      <option name="browser" value="" />
-      <option name="interpreterName" value="PHP 7.4" />
-      <method v="2" />
-    </configuration>
     <configuration name="seanodonnell" type="LaravelStorm_run_conf_serve" factoryName="Laravel">
       <option name="host" value="localhost" />
       <option name="port" value="8000" />
       <option name="route" value="/" />
       <option name="browser" value="" />
-      <option name="interpreterName" value="PHP 7.4" />
+      <option name="interpreterName" value="" />
       <method v="2" />
     </configuration>
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -170,6 +161,7 @@
       <workItem from="1586465323636" duration="3211000" />
       <workItem from="1586507092632" duration="800000" />
       <workItem from="1587178211921" duration="48000" />
+      <workItem from="1587498996164" duration="553000" />
     </task>
     <servers />
   </component>
