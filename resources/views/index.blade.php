@@ -40,7 +40,6 @@
             <li class="active"><a href="#home"><i class="icon-home"></i></a></li>
             <li><a href="#about"><i class="icon-user-following"></i></a></li>
             <li><a href="#services"><i class="icon-briefcase"></i></a></li>
-            <li><a href="#experience"><i class="icon-graduation"></i></a></li>
             <li><a href="#works"><i class="icon-layers"></i></a></li>
             <li><a href="#blog"><i class="icon-note"></i></a></li>
             <li><a href="#contact"><i class="icon-bubbles"></i></a></li>
@@ -140,7 +139,7 @@
                 <div class="col-md-3">
                     <div class="text-center text-md-left">
                         <!-- avatar image -->
-                        <img src="https://via.placeholder.com/150x150" alt="Bolby" />
+                        <!-- <img src="https://via.placeholder.com/150x150" alt="Bolby" /> -->
                     </div>
                     <div class="spacer d-md-none d-lg-none" data-height="30"></div>
                 </div>
@@ -150,9 +149,9 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <!-- about text -->
-                                <p>I am {{env('THEME_FULL_NAME')}}, PHP Developer, Supporter of moving everything into the Cloud ☁, System Administrator and all around follower in technology! </p>
+                                <p>I'm {{env('THEME_FULL_NAME')}}, PHP Developer, Supporter of moving everything into the Cloud ☁, System Administrator and all around follower in technology! </p>
                                 <div class="mt-3">
-                                    <a href="{{URL::to('download/cv')}}" class="btn btn-default">Download CV</a>
+                                    <a href="#contact" class="btn btn-default">Request a CV</a>
                                 </div>
                                 <div class="spacer d-md-none d-lg-none" data-height="30"></div>
                             </div>
@@ -267,7 +266,6 @@
                 <div class="col-md-4">
                     <!-- service box -->
                     <div class="service-box rounded data-background padding-30 text-center text-light shadow-blue" data-color="#6C6CE5">
-                        <img src="https://via.placeholder.com/80x80" alt="UI/UX design" />
                         <h3 class="mb-3 mt-0">Development</h3>
                         <p class="mb-0">With a focus more on backend, I routinely use languages such as PHP and C#</p>
                     </div>
@@ -277,7 +275,6 @@
                 <div class="col-md-4">
                     <!-- service box -->
                     <div class="service-box rounded data-background padding-30 text-center shadow-yellow" data-color="#F9D74C">
-                        <img src="https://via.placeholder.com/80x80" alt="UI/UX design" />
                         <h3 class="mb-3 mt-0">System Administration</h3>
                         <p class="mb-0">Years of experience working with Windows to switching it up in a Mac only office has given me valuable experience across two different methodologies of doing system administration!</p>
                     </div>
@@ -287,7 +284,6 @@
                 <div class="col-md-4">
                     <!-- service box -->
                     <div class="service-box rounded data-background padding-30 text-center text-light shadow-pink" data-color="#F97B8B">
-                        <img src="https://via.placeholder.com/80x80" alt="UI/UX design" />
                         <h3 class="mb-3 mt-0">Cloud</h3>
                         <p class="mb-0">Building my own projects has put me on the front lines of learning to work with the cloud, from game servers to architecting my own workflows for content creation. I've got experience across a vast array of technologies.</p>
                     </div>
@@ -302,7 +298,7 @@
         </div>
 
     </section>
-    
+
     <!-- section works -->
     <section id="works">
 
@@ -418,7 +414,7 @@
                         <div class="portfolio-item rounded shadow-dark">
                             <div class="details">
                                 <span class="term">INACTIVE</span>
-                                <h4 class="title">MarioShare.net</h4>
+                                <h4 class="title">MarioShare.com</h4>
                                 <span class="more-button"><i class="icon-options"></i></span>
                             </div>
                             <div class="thumb">
@@ -609,13 +605,12 @@
                     <div class="blog-item rounded bg-dark shadow-light wow fadeIn">
                         <div class="thumb">
                             <a href="{{$p['link']}}">
-                                <img src="https://via.placeholder.com/330x215" alt="blog-title" />
                             </a>
                         </div>
                         <div class="details">
                             <h4 class="my-0 title"><a href="{{$p['link']}}">{{$p['title']}}</a></h4>
                             <ul class="list-inline meta mb-0 mt-2">
-                                <li class="list-inline-item">{{\Carbon\Carbon::parse($p['pubDate'])}}</li>
+                                <li class="list-inline-item">{{\Carbon\Carbon::parse($p['pubDate'])->diffForHumans()}}</li>
                             </ul>
                         </div>
                     </div>
