@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b15a96f-d451-4a89-ac42-6476fff45fc4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Index/IndexController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Index/IndexController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/templates/head.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/templates/head.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

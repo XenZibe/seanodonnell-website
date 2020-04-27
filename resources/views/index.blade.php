@@ -64,7 +64,7 @@
             <!-- intro -->
             <div class="intro">
                 <!-- avatar image -->
-                <img src="https://scontent-lht6-1.cdninstagram.com/v/t51.2885-19/s150x150/70952419_406566663571051_4957816341890334720_n.jpg?_nc_ht=scontent-lht6-1.cdninstagram.com&_nc_ohc=t-RxshsuD54AX9pZIf1&oh=93eed3dde4875956a2526f6137c0bf1f&oe=5EA6A895" alt="Sean's Face!" class="mb-4" />
+                <img src="https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/images/seans+face+instagram.jpg" alt="Sean's Face!" class="mb-4" />
 
                 <!-- info -->
                 <h1 class="mb-2 mt-0">{{env('THEME_FULL_NAME')}}</h1>
