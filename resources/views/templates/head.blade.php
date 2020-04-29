@@ -31,7 +31,7 @@
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="https://seanodonnell-assets.s3.eu-west-2.amazonaws.com/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
-
+    <meta name="google-site-verification" content="IZNFex77QXUZ8kyeaR2hWFX5FLBN5IhODDcr9qNudqU" />
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
