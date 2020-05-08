@@ -10,7 +10,7 @@ class IndexController extends Controller
 {
     //
 
-    private $blogFeedUrl = 'https://seanodonnell.co.uk/blog/feed/';
+    private $blogFeedUrl = 'https://switchedbit.com/feed/';
 
     /**
      * Show our index page
