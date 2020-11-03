@@ -68,12 +68,12 @@
 
                 <!-- info -->
                 <h1 class="mb-2 mt-0">{{env('THEME_FULL_NAME')}}</h1>
-                <span>I'm a <span class="text-rotating">Glasgow Based PHP Developer, Game Dev Hobbyist and System Administrator</span></span>
+                <span>I'm a <span class="text-rotating">Developer, Network Admin, System Administrator</span></span>
 
                 <!-- social icons -->
                 <ul class="social-icons light list-inline mb-0 mt-4">
                     <li class="list-inline-item"><a href="https://www.instagram.com/sean_odonnell_96/"><i class="fab fa-instagram"></i></a></li>
-                    <li class="list-inline-item"><a href="https://twitter.com/kaibasean"><i class="fab fa-twitter"></i></a></li>
+                    <li class="list-inline-item"><a href="https://twitter.com/sean_odonell96"><i class="fab fa-twitter"></i></a></li>
                     <li class="list-inline-item"><a href="https://www.linkedin.com/in/sean-o-donnell-a435a770/"><i class="fab fa-linkedin"></i></a></li>
                     <li class="list-inline-item"><a href="https://github.com/XenZibe/"><i class="fab fa-github"></i></a></li>
                 </ul>
